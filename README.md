@@ -4,7 +4,7 @@
 
 <p style="text-align: center; font-family: Arial;">I'm a Flutter Developer 💻 with expertise in Firebase as a backend, currently delving into Data Structures and Algorithms in Java. I possess strong problem-solving skills and have a passion for public speaking, serving as the Lead & Founder of the MLSA-UTU chapter at my university. 😀
 
-Currently, I'm in my 3rd year pursuing a Bachelor's degree 🎓 in Computer Engineering with a CGPA of 8.7. I enhance my skills and contribute meaningfully to open source projects on GitHub.
+Currently, I'm in my last year of a Bachelor's degree 🎓 in Computer Engineering with a CGPA of 8.7. I enhance my skills and contribute meaningfully to open source projects on GitHub.
 
 When I'm not at my computer, you can find me immersed in music🎵✨. These hobbies not only bring me joy but also contribute to maintaining a healthy work-life balance💪, keeping me motivated to pursue excellence in everything I do.
 
